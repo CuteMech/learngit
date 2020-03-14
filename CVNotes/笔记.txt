@@ -1,0 +1,41 @@
+无监督学习中的K-Means聚类算法
+recursion	递归
+iteration	迭代
+迭代:利用变量的原值推算出变量的一个新值.如果递归是自己调用自己的话,迭代就是A不停的调用B。
+
+前置知识：高数，线代，概率论的基本知识，即用到的时候拿出书来看；
+二战复习主要看高数
+
+图像处理相关知识 
+opencv，
+卷积神经网络
+跑网上的一些demo、样例
+先学一些传统的图像处理技术，
+深度学习方向感兴趣也可以看看
+ numpy, opencv-python,pyparsing, six, python-dateutil, kiwisolver, cycler, matplotlib
+
+SIFT原理，特征匹配
+特征提取有：*1.sift  2.surf  *3.Harrris  4.orb  5.Akaze
+预处理：梯度一致性的论文
+sift->sewtect(   )的API
+
+寒假计划：
+Git版本控制，KMP算法教程
+必须完成的有
+1.C++基础语法练习及计算机二级准备
+2.OpenCV和sift及特征匹配相关的图像识别基础内容等
+
+感兴趣的：
+1.python学习 合适的书面教材(核心编程?爬虫?基础?入门到实践?51CTO网课)和python123相结合
+2.大佬的例程(实际上不会，太难，已经放弃)
+3.linux及c语言中文网教程
+C:\Program Files (x86)\Python37-32
+C:\Program Files (x86)\Python37-32\Lib\site-packages
+C:\Program Files (x86)\Python37-32\Scripts
+
+远目标：
+就业还是考研
+
+次要目标：
+1.爬取自己加入的各种QQ群信息
+2.avenge	

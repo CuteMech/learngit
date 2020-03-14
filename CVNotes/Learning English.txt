@@ -1,0 +1,32 @@
+来源 ：https://www.ithome.com/0/436/608.htm
+LMR（Longitudinal magnetic recording），也就是水平磁性记录
+垂直磁性记录的方法，叫做PMR（Perpendicular Magnetic Recording）
+Shingled Magneting Recording（SMR）技术，又叫叠瓦式磁记录技术。
+如何区分自己的硬盘是PMR还是SMR？
+不过，比较尴尬的是，目前硬盘企业在产品包装上基本上是不会告诉你这块硬盘采用的是PMR还是SMR技术的，这就需要我们自己去辨别。网上很多小伙伴根据自己的自身经历以及经验常识，整理了一些方法来帮助大家辨别，这些方法只能作为参考，并不能百分百确定硬盘是PMR还是SMR技术。IT之家小编认为，最好的方法还是尽可能联系硬盘所属品牌的官方客服进行询问，这样得到的答案更为准确。当然如果你实在联系不上客服，那么小编也将网友整理的方法列在下方，供大家参考。
+[机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别]
+1、看容量。SMR是为了追求硬盘容量而产生的方案，所以SMR硬盘的容量一般是比较大的。通常来说，3.5寸硬盘大于1TB，或者2.5寸硬盘大于500GB的，就有可能是SMR硬盘了。
+2、看缓存。刚才我们说到，SMR的技术特点导致它的缓存通常比较大，通常是128MB起步的。不过这个也不是定数，也有些SMR硬盘产品缓存比较小，只有64MB，但很少见，当然也有一些高端的PMR硬盘容量很大，缓存也能达到256MB。
+[机械硬盘避坑大法：一文搞懂PMR和SMR有什么区别]
+3、还有一个办法是根据硬盘的总容量计算每片磁盘的容量，硬盘的磁盘片数大家需要到对应品牌官网上去查找技术文档，如果这个品牌的产品没有提供技术文档，也可以寻找官方的客服解决。当然，如果你联系上了客服，或许可以直接询问该产品是PMR还是SMR盘了。
+当你了解了每碟磁盘的容量时，可以大概估摸硬盘是SMR还是PMR了。通常2.5寸一般每碟是500G左右，大的也能到1TB，而3.5寸一般是1TB左右，大的话有1.5TB。
+4、最后，Chiphell论坛有网友整理了市售3.5英寸SATA HDD的技术参数（点此前往），涵盖了目前市面上绝大部分的3.5英寸机械硬盘，其中就有硬盘是采用PMR技术还是SMR技术的信息，这份列表也可供大家参考。
+ [HDD] 零售3.5'' SATA HDD汇总列表 (2018-10-24更新)
+https://www.chiphell.com/thread-1676546-1-1.html
+
+apocalypse inside tainted soil
+腐坏土壤中的启示录
+
+Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
+SLAM是“Simultaneous Localization And Mapping”的缩写，可译为同步定位与建图。概率 SLAM 问题 (the probabilistic SLAM problem) 起源于 1986 年的IEEE Robotics and Automation Conference 大会上，研究人员希望能将估计理论方法 (estimation-theoretic methods) 应用在构图和定位问题中。 SLAM最早被应用在机器人领域，其目标是在没有任何先验知识的情况下，根据传感器数据实时构建周围环境地图，同时根据这个地图推测自身的定位
+Durrant-Whyte, H, and Bailey, Tim. ”Simultaneous Localization and Mapping: Part I.” IEEE Robotics & Amp Amp Automation Magazine 13.2(2006):99 - 110.
+
+receptacle插座 socket插槽
+manipulate handful
+icon图标	tray碟；盘
+gateway网关
+field 字段
+
+genital生殖器  erected勃起的
+prince 王子；诸侯(亲王)
