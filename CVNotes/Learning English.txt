@@ -23,10 +23,11 @@ SLAMÊÇ¡°Simultaneous Localization And Mapping¡±µÄËõĞ´£¬¿ÉÒëÎªÍ¬²½¶¨Î»Óë½¨Í¼¡£¸ÅÂ
 Durrant-Whyte, H, and Bailey, Tim. ¡±Simultaneous Localization and Mapping: Part I.¡± IEEE Robotics & Amp Amp Automation Magazine 13.2(2006):99 - 110.
 
 receptacle²å×ù socket²å²Û
-manipulate handful
+manipulate = handful
 iconÍ¼±ê	trayµú£»ÅÌ
-gatewayÍø¹Ø
+gateway Íø¹Ø
 field ×Ö¶Î
+wrapper ·â×°Àà
 
 genitalÉúÖ³Æ÷  erected²ªÆğµÄ
 prince Íõ×Ó£»Öîºî(Ç×Íõ)

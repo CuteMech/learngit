@@ -1,0 +1,27 @@
+e) 一个有10个指针的数组，该指针是指向一个整型数的。（An array of 10 pointers to integers）
+f) 一个指向有10个整型数数组的指针（ A pointer to an array of 10 integers）
+g) 一个指向函数的指针，该函数有一个整型参数并返回一个整型数（A pointer to a function that takes an integer as an argument and returns an integer）
+h) 一个有10个指针的数组，该指针指向一个函数，该函数有一个整型参数并返回一个整型数（ An array of ten pointers to functions that take an integer argument and return an integer ）
+
+e) int *a[10]; // An array of 10 pointers to integers
+f) int (*a)[10]; // A pointer to an array of 10 integers
+g) int (*a)(int); // A pointer to a function a that takes an integer argument and returns an integer
+h) int (*a[10])(int); // An array of 10 pointers to functions that take an integer argument and return an integer
+
+const int *a;	a是一个指向常整型数的指针（也就是，整型数是不可修改的，但指针可以）
+int * const a;  	a是一个指向整型数的常指针（也就是说，指针指向的整型数是可以修改的，但指针是不可修改的）
+int const * a const;	a是一个指向常整型数的常指针（也就是说，指针指向的整型数是不可修改的，同时指针也是不可修改的）
+
+Interrupt Service Routines 中断服务子程序(ISR)
+
+当表达式中存在有符号类型和无符号类型时所有的操作数都自动转换为无符号类型
+
+assert( int expression );
+assert的作用是先计算表达式 expression ，如果其值为假（即为0），那么它先向stderr打印一条出错信息，然后通过调用 abort 来终止程序运行。
+
+13. 评价下面的代码片断：
+unsigned int zero = 0;
+unsigned int compzero = 0xFFFF;
+/*1''s complement of zero */
+对于一个int型不是16位的处理器为说，上面的代码是不正确的。应编写如下：
+unsigned int compzero = ~0;
