@@ -1,0 +1,29 @@
+计算机网络
+报文，分组，数据，数据报，帧，UDP，FMMUS(现象总线存储管理单元)，DPRAM(双端口随机存储器)，DNP(分布式网络协议)
+
+LAN9514(网络PHY+MAC+4*USB控制器)
+LAN9252(EtherCAT从站专用芯片，自带PHY芯片)
+
+问题：“自曝”检测是什么？
+
+Visio2013
+C2FG9-N6J68-H8BTJ-BW3QX-RM3B3
+
+tab向右缩进
+shift+tab 向左缩进
+
+对CHSI的建议：本科水课多，部分核心专业课老师水平有限/不尽责(水时间干货少，或体制实重科研轻教学)，主要靠自学。实验多用教学仪器，存在三四人一设备同学旁观划水的现象，手抄实验报告又辛苦效率又低望实验报告可电子化。
+
+服务器高性能DRAM紧缺，三星、美光、SK海力士齐攻DDR5产品线
+https://mp.weixin.qq.com/s?__biz=MzA3MTAzMzQwMQ==&mid=2656010885&idx=1&sn=9aa4414fb34ef9ad16a30341c7b63c8c&chksm=848895d3b3ff1cc5a374a0e408ae0e2a6a0ffd4122fc6114297948c4a88f6d29b450e2fda87f&mpshare=1&scene=23&srcid=&sharer_sharetime=1586265939561&sharer_shareid=e97a8096de6b814c4ec5a8a4d40c8eca#rd
+
+o0HalfLife0o commented on 14 Sep 2018
+目前gfw封ip不再是以前那样，不管tcp、udp、icmp全部连不上，而是大部分ip只屏蔽tcp，这样就导致ping的通，连不上
+1、像google等被墙的，不管怎么ping全超时，如果改成tcp ping，这样就可以直接借用ss等代理，获取到最准确的、走代理服务器后的ping值
+2、像其他只封了tcp的，使用tcp ping可以避免出现ping通了，但是网页还是打不开的尴尬局面
+
+@pymumu
+Owner
+pymumu commented on 14 Sep 2018
+现在是先ping，ping全部失效再tcp-ping的。
+后面考虑增加开关，关闭ping
