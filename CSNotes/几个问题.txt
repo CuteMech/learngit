@@ -1,0 +1,43 @@
+C:\Users\CuteMech\AppData\Local\Google\Chrome\User Data\SwReporter\81.234.200
+D:\Software\opencv2.4.9\sources\modules\core\src\mathfuncs.cpp
+“基于图像处理的绝缘子缺陷检测”实际上是一个已经用深度学习(Faster-RCNN)完成的项目，给出要用模式识别的传统方法完成的指示，冠以“检测深度学习不能检测到的部分”的名号进行，实际上是给刚入门的研究生练练手，并顺便可以当做一个本科毕业设计选题
+考虑到实际计算时，需要采用双线性插值，所需图像窗口边乘以(d+1) (d=4,特征点邻域网格个数是d x d)，为什么？
+
+问：你们智能车是不是前面几届都有的，重复造车的那种？
+答：智能车每一届规则都有改变的不一样的呢；还有前一届是有传承一些东西，但主要是参考方案之类的，东西还是要我们做；我负责的是软件和最终调试部分，
+
+问：你自己码过多少代码？
+答：
+
+无刷直流电机控制策略？
+
+直流电机种类，基本原理；交流电机种类；你用过的控制电机
+
+你会用双指针么？会寄存器写法么？研发老哥觉得这很基本。
+滤波算法会什么？高斯滤波
+
+下次面试要去以前做充分准备，比如在合泰的面试就忘问了会不会出差外派的问题(这不是要点)
+被拒原因猜测：最有可能是硬件经验缺失，其次卷面分数不佳，再者支支吾吾很多问题回答不够干脆坚决（最有可能被问死的问题：1.你了解哪些电机呢？2.无刷直流电机工作原理）
+
+摘自：基于Faster R-CNN模型的绝缘子故障检测
+
+摘自：基于Faster R-CNN模型的绝缘子故障检测
+
+摘自：基于ASIFT算法的绝缘子视频图像的识别与定位
+
+摘自：形状感知的绝缘子识别与缺陷诊断
+
+摘自：基于视觉的绝缘子缺陷检测方法
+
+摘自：航拍图像中绝缘子缺陷的检测与定位
+
+摘自：基于仿射尺度不变特征变换的掌纹识别
+
+摘自：一种改进的KAZE特征检测算法
+
+摘自：一种改进A-KAZE算法的特征点匹配方法
+
+已下载：Tareen, S. A. K., & Saleem, Z. (2018). A comparative analysis of SIFT, SURF, KAZE, AKAZE, ORB, and BRISK. 2018 International Conference on Computing, Mathematics and Engineering Technologies (iCoMET). doi:10.1109/icomet.2018.8346440 
+
+Yuxuan Liu, Chaozhen Lan, Canhai Li, Fan Mo, Huabin Wang,
+S-AKAZE: An effective point-based method for image matching, Optik, Volume 127, Issue 14, 2016, Pages 5670-5681, ISSN 0030-4026
