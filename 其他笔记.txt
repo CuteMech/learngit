@@ -1,8 +1,0 @@
-计算机网络
-报文，分组，数据，数据报，帧，UDP，FMMUS(现象总线存储管理单元)，DPRAM(双端口随机存储器)，DNP(分布式网络协议)
-
-LAN9514(网络PHY+MAC+4*USB控制器)
-LAN9252(EtherCAT从站专用芯片，自带PHY芯片)
-
-服务器高性能DRAM紧缺，三星、美光、SK海力士齐攻DDR5产品线
-https://mp.weixin.qq.com/s?__biz=MzA3MTAzMzQwMQ==&mid=2656010885&idx=1&sn=9aa4414fb34ef9ad16a30341c7b63c8c&chksm=848895d3b3ff1cc5a374a0e408ae0e2a6a0ffd4122fc6114297948c4a88f6d29b450e2fda87f&mpshare=1&scene=23&srcid=&sharer_sharetime=1586265939561&sharer_shareid=e97a8096de6b814c4ec5a8a4d40c8eca#rd
