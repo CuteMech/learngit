@@ -4,7 +4,9 @@
 
     使用命令git add <file>，注意，可反复多次使用，添加多个文件；
     使用命令git commit -m <message>，完成。
-
+    git add -A  添加所有变化
+    git add -u  添加被修改(modified)和被删除(deleted)文件，不包括新文件(new)
+    git add .   添加新文件(new)和被修改(modified)文件，不包括被删除(deleted)文件
 
     要随时掌握工作区的状态，使用git status命令。
 
@@ -28,3 +30,5 @@ ssh-keygen -t rsa -C "youremail@example.com" 创建SSH Key
 要关联一个远程库，使用命令git remote add origin git@server-name:path/repo-name.git；
 关联后，使用命令git push -u origin master第一次推送master分支的所有内容；
 此后，每次本地提交后，只要有必要，就可以使用命令git push origin master推送最新修改；
+(应当是 git push 远端名称 分支名称)即 git push [remote-name] [branch-name]。
+如果你想要将master分支推送到origin伺服器上时（再次说明，克隆时通常会自动地帮你设定好master和origin这二个名称），那么你可以执行这个命今将所有你完成的提交（commit）推送回伺服器上。
